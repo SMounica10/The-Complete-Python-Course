@@ -5,6 +5,7 @@ if user_name == friend:
     print("Hello, friend!")
 else:
     print("Hello, stranger!")
+    PRINT(MOUNI)
 
 
 # -- Checking whether the if statement will run --
